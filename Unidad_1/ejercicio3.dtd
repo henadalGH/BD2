@@ -1,0 +1,9 @@
+<!ELEMENT escuela (cursos)>
+<!ELEMENT cursos (curso)>
+<!ELEMENT curso (profesor)>
+<!ELEMENT profesor (alumnos)>
+<!ELEMENT alumnos (alumno+)>
+<!ELEMENT alumno (nombre, edad, direccion)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT edad (#PCDATA)>
+<!ELEMENT direccion (#PCDATA)>
