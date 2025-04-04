@@ -1,0 +1,43 @@
+<almasen>
+    <produtos>
+        <categorias>
+            <categoria>Limpieza</categoria>
+                <productos>
+                    <producto>
+                        <nombre>Detergente líquido</nombre>
+                        <precio>450.00</precio>
+                        <stock>120</stock>
+                    </producto>
+                    <producto>
+                        <nombre>Lavandina</nombre>
+                        <precio>300.00</precio>
+                        <stock>85</stock>
+                    </producto>
+                    <producto>
+                        <nombre>Desinfectante multiuso</nombre>
+                        <precio>520.00</precio>
+                        <stock>60</stock>
+                    </producto>
+                </productos>
+
+                <categoria>Higiene personal</categoria>
+                    <productos>
+                        <producto>
+                            <nombre>Shampoo</nombre>
+                            <precio>750.00</precio>
+                            <stock>100</stock>
+                        </producto>
+                        <producto>
+                            <nombre>Jabón en barra</nombre>
+                            <precio>250.00</precio>
+                            <stock>200</stock>
+                        </producto>
+                        <producto>
+                            <nombre>Pasta dental</nombre>
+                            <precio>480.00</precio>
+                            <stock>90</stock>
+                        </producto>
+                    </productos>
+                </categorias>
+    </produtos>
+</almasen>

@@ -1,0 +1,24 @@
+<agenda>
+    <eventos>
+        <evento>
+            <titulo>Conferecia tecnologica</titulo>
+            <fecha>2024-04-15</fecha>
+            <hora>10:00</hora>
+            <descripción>Charla sobre las ultimas tendencias tecnologicas</descripción>
+        </evento>
+
+        <evento>
+            <titulo>Festival de arte</titulo>
+            <fecha>2024-04-20</fecha>
+            <hora>15:30</hora>
+            <descripción>Exhivicion de obras de artistas locales</descripción>
+        </evento>
+
+        <evento>
+            <titulo>Consierto de Jazz</titulo>
+            <fecha>2024-04-25</fecha>
+            <hora>19:00</hora>
+            <descripción>actiación en vivo de una banda de jazz</descripción>
+        </evento>
+    </eventos>
+</agenda>

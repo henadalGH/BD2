@@ -1,0 +1,12 @@
+<libros>
+    <libro>
+        <titulo>Piense y hagase rico</titulo>    
+        <autor>Napoleón Hill</autor>
+        <añoPublicacion>1937</añoPublicacion>
+    </libro>
+    <libro>
+        <titulo>No es facil ser Watson</titulo>    
+        <autor>Andrea Ferrari</autor>
+        <añoPublicacion>2011</añoPublicacion>
+    </libro>
+</libros>

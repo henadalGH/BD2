@@ -1,0 +1,20 @@
+<escuela>
+    <cursos>
+        <curso>
+            <profesor>
+                <alumnos>
+                    <alumno>
+                        <nombre>Juan</nombre>
+                        <edad>30</edad>
+                        <direccion>Entre Rios 2023</direccion>
+                    </alumno>
+                    <alumno>
+                        <nombre>Maria</nombre>
+                        <edad>20</edad>
+                        <direccion>Entre Rios 2043</direccion>
+                    </alumno>
+                </alumnos>
+            </profesor>
+        </curso>
+    </cursos>
+</escuela>

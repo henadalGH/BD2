@@ -1,0 +1,33 @@
+<pedidos>
+    <pedido>
+        <numeroPedido>1001</numeroPedido>
+        <fecha>2024-03-28</fecha>
+        <cliente>Ana</cliente>
+        <productos>
+            <producto>
+                <nombre>Smartphone</nombre>
+                <cantidad>2</cantidad>
+            </producto>
+            <producto>
+                <nombre>Auriculares</nombre>
+                <cantidad>10</cantidad>
+            </producto>
+        </productos>
+    </pedido>
+
+    <pedido>
+        <numeroPedido>1002</numeroPedido>
+        <fecha>2024-03-30</fecha>
+        <cliente>Luis</cliente>
+        <productos>
+            <producto>
+                <nombre>Tablet</nombre>
+                <cantidad>7</cantidad>
+            </producto>
+            <producto>
+                <nombre>Camara</nombre>
+                <cantidad>3</cantidad>
+            </producto>
+        </productos>
+    </pedido>
+</pedidos>
