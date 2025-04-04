@@ -2,7 +2,8 @@
     <xs:element name="escuela">
         <xs:complexType>
         <xs:sequence>
-            <xs:element name="nombre" type="xs:string"/>
+            <xs:element name="cursos" minOccurs="1" maxOccurs="1" />
+            
             
         </xs:sequence>
 </xs:complexType>
