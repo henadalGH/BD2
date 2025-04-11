@@ -1,4 +1,5 @@
-<!DOCTYPE escuela SYSTEM "ejercicio3.dtd">
+<!-- <!DOCTYPE escuela SYSTEM "ejercicio3.dtd"> -->
+<?xml-model href="ejercicio3.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <escuela>
     <cursos>
         <curso>

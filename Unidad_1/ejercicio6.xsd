@@ -1,0 +1,26 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="empresa">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="empleados" minOccurs="1" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="empleado" minOccurs="1" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="nombre" type="xs:string"/>
+                                        <xs:element name="apellido" type="xs:string"/>
+                                        <xs:element name="edad" type="xs:string"/>
+                                        <xs:element name="departamento" type="xs:string"/>
+                                        <xs:element name="cargo" type="xs:string"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+        
+    </xs:element>
+</xs:schema>

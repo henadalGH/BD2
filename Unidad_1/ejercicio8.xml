@@ -1,4 +1,5 @@
-<!DOCTYPE agenda SYSTEM "ejercicio8.dtd">
+<!-- <!DOCTYPE agenda SYSTEM "ejercicio8.dtd"> -->
+ <?xml-model href="ejercicio8.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <agenda>
     <eventos>
         <evento>

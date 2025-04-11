@@ -1,4 +1,5 @@
-<!DOCTYPE empresa SYSTEM "ejercicio6.dtd">
+<!-- <!DOCTYPE empresa SYSTEM "ejercicio6.dtd">-->
+<?xml-model href="ejercicio6.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <empresa>
     <empleados>
         <empleado>
