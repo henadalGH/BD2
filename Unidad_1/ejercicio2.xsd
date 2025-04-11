@@ -8,6 +8,7 @@
                             <xs:element name="titulo" type="xs:string"/>
                             <xs:element name="autor" type="xs:string"/>
                             <xs:element name="añoPublicacion" type="xs:string"/>
+                            <xs:element name="genero" type="xs:string"/>
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>

@@ -1,4 +1,6 @@
-<!DOCTYPE libros SYSTEM "ejercicio1.dtd">
+<?xml-model href="ejercicio1.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<!--<!DOCTYPE libros SYSTEM "ejercicio1.dtd">-->
+
 <libros>
     <libro>
         <titulo>Piense y hagase rico</titulo>    
