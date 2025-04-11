@@ -1,0 +1,9 @@
+<!ELEMENT almacen (productos)>
+<!ELEMENT productos (categorias)>
+<!ELEMENT categorias (categoria+)>
+<!ELEMENT categoria (nombre, articulos+)>
+<!ELEMENT articulos (producto+)>
+<!ELEMENT producto (nombre, precio, stock)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT stock (#PCDATA)>

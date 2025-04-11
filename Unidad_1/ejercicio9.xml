@@ -1,3 +1,4 @@
+<!DOCTYPE pedidos SYSTEM "ejercicio9.dtd">
 <pedidos>
     <pedido>
         <numeroPedido>1001</numeroPedido>

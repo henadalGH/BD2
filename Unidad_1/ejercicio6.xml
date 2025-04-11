@@ -1,6 +1,6 @@
+<!DOCTYPE empresa SYSTEM "ejercicio6.dtd">
 <empresa>
     <empleados>
-        
         <empleado>
             <nombre>Ana</nombre>
             <apellido>Garcia</apellido>
