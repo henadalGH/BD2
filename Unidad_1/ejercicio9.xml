@@ -1,4 +1,5 @@
-<!DOCTYPE pedidos SYSTEM "ejercicio9.dtd">
+<!--<!DOCTYPE pedidos SYSTEM "ejercicio9.dtd">-->
+<?xml-model href="ejercicio9.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <pedidos>
     <pedido>
         <numeroPedido>1001</numeroPedido>

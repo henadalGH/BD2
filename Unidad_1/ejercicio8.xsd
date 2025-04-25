@@ -6,7 +6,14 @@
         <xs:complexType>
             <xs:sequence>
                 <xs:element name="evento" minOccurs="1" maxOccurs="unbounded">
-
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="titulo" type="xs:string"/>
+                <xs:element name="fecha" type="xs:string"/>
+                <xs:element name="hora" type="xs:string"/>
+                <xs:element name="descripción" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
                 </xs:element>
             </xs:sequence>
         </xs:complexType>
